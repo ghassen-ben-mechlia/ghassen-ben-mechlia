@@ -54,26 +54,9 @@
 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Elyes on LinkedIn" title="Follow Ghassen on LinkedIn"/>](https://www.linkedin.com/in/ben-mechlia-ghassen-607056173/)
-
-
-## 🌙 I'm 24 Hours 🦉 In Front Of 🖥:
-
-```text
-
-🌞 Morning    5 commits      ████░░░░░░░░░░░░░░░░░░░░
-🌆 Daytime    20  commits    ██████████████░░░░░░░░░░
-🌃 Evening    20 commits     ██████████████░░░░░░░░░░
-🌙 Night      20 commits     ██████████████░░░░░░░░░░
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Ghassen on LinkedIn" title="Follow Ghassen on LinkedIn"/>](https://www.linkedin.com/in/ben-mechlia-ghassen-607056173/)
 
 ```
 
-<div align="center">
-<h3> want to connect?  </h3>
 
-[![Linkedin: ElyesBenkhoud](https://img.shields.io/badge/-Elyesbenkhoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ElyesBenkhoud/)](https://www.linkedin.com/in/mohamed-elyes-ben-khoud-738321216/)
-[![GitHub ElyesBenkhoud](https://img.shields.io/github/followers/ElyesBenKhoud?label=follow&style=social)](https://github.com/ElyesBenKhoud)
-
-</div>
-
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="center" width="100%" alt="👋 Hi there! I'm Mohamed Elyes Ben khoud" title="👋 Hi there! I'm Mohamed Elyes Ben khoud"/>
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="center" width="100%" alt="👋 Hi there! I'm Ghassen ben mechlia" title="👋 Hi there! I'm Ghassen ben mechlia"/>
